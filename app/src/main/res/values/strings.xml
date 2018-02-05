@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConnectGame</string>
+    <string name="todo">TODO</string>
+    <string name="try_again">Try Again</string>
 </resources>
